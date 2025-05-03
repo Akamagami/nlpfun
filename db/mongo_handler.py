@@ -1,8 +1,15 @@
 import json
+import os
 from pymongo import MongoClient
 
+# Determine the relative path to the configuration file
+config_path = os.path.join(os.path.dirname(__file__), "local_config.json")
+
 # Load the MongoDB configuration from the JSON file
-with open("c:/Users/I517922/Documents/PSE2/ner/TrainingService/db/local_config.json", "r") as config_file:
+if not os.path.exists(config_path):
+    raise FileNotFoundError(f"Configuration file not found: {config_path}")
+
+with open(config_path, "r") as config_file:
     config = json.load(config_file)
 
 class MongoHandler:
