@@ -1,0 +1,4 @@
+localConfig.json
+spaCy/data/
+spaCy/models/
+spaCy/config.cfg
