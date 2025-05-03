@@ -1,0 +1,4 @@
+{
+    "MONGO_URI": "YopurMongoDBConnectionString",
+    "DB_NAME": "training_service"
+}
