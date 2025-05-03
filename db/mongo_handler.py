@@ -3,7 +3,7 @@ import os
 from pymongo import MongoClient
 
 # Determine the relative path to the configuration file
-config_path = os.path.join(os.path.dirname(__file__), "local_config.json")
+config_path = os.path.join(os.path.dirname(__file__), "localconfig.json")
 
 # Load the MongoDB configuration from the JSON file
 if not os.path.exists(config_path):
