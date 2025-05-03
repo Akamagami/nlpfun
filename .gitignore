@@ -3,4 +3,6 @@ spaCy/data/
 spaCy/models/
 spaCy/config.cfg
 spacyenv/
-__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
