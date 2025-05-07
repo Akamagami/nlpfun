@@ -1,6 +1,4 @@
 localConfig.json
-spaCy/data/
-spaCy/models/
 spaCy/config.cfg
 spacyenv/
 **/__pycache__/

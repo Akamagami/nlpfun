@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "68190fd6d3d8ae3eb2e823ef"
+  },
+  "modelVersion": "v1.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v1.0.0"
+},
+{
+  "_id": {
+    "$oid": "681911bb272e778ce9474a68"
+  },
+  "modelVersion": "v2.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v2.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a02c4634fcb280a5f1a16"
+  },
+  "modelVersion": "v3.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v3.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a0a46d6262a78fb528426"
+  },
+  "modelVersion": "v4.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v4.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a0af3d6262a78fb528427"
+  },
+  "modelVersion": "v5.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v5.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a4c42236230df759b69dc"
+  },
+  "modelVersion": "v6.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v6.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a6c960ecf7a1eb8ea2919"
+  },
+  "modelVersion": "v7.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v7.0.0"
+},
+{
+  "_id": {
+    "$oid": "681a841a0ecf7a1eb8ea291a"
+  },
+  "modelVersion": "v8.0.0",
+  "modelPath": "c:\\Users\\I517922\\Documents\\PSE2\\ner\\TrainingService\\spaCy\\models\\v8.0.0"
+}]

@@ -1,0 +1,2680 @@
+[{
+  "_id": {
+    "$oid": "6817a314377369745b6d8105"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "This investment follows a {} risk profile, emphasizing stability and long-term income. Such assets are typically low-leverage and located in prime markets. Investors seeking minimal risk often favor this profile."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8106"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "The fund adopts a {} risk profile, blending income generation with moderate growth. Properties in this category might require slight upgrades to enhance returns. It's well-suited for those balancing safety and performance."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8107"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "Investments classified under the {} risk profile aim for enhanced yields while maintaining a stable foundation. These are generally well-positioned assets with slight value-creation opportunities. They appeal to investors who want more than just steady income."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8108"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "This project carries a {} risk profile, indicating a strategy of acquiring underperforming assets with potential. It typically involves capital improvements and operational adjustments. The goal is to boost both asset value and cash flow."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8109"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "The {} risk profile reflects a high-risk, high-reward investment strategy. These deals may involve development, repositioning, or distressed assets. They're suitable for investors comfortable with volatility in exchange for potential outsized returns."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810a"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "With a {} risk profile, the strategy focuses on stable, income-generating properties in top-tier locations. These investments are typically long-term and involve minimal active management. They offer predictability and low risk."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810b"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "A {} risk profile suggests a slight increase in risk compared to core investments. This may include properties in strong but secondary markets or with minor improvements needed. It’s ideal for investors seeking a balanced approach."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810c"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "The {} risk profile indicates a move towards more growth-oriented strategies while retaining some core characteristics. It often includes markets or assets undergoing positive change. This profile seeks to capture upside with measured risk."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810d"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "Using a {} risk profile, this investment involves repositioning properties to unlock potential. Moderate renovation or leasing improvements are common. This suits investors looking for both income and appreciation."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810e"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "An investment under the {} risk profile is inherently speculative but offers the potential for substantial returns. Strategies may include ground-up developments or turnaround plays. It requires significant expertise and risk tolerance."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d810f"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "The fund is structured around a {} risk profile, appealing to conservative investors. Asset selection prioritizes reliability and strong tenancy. It’s about wealth preservation more than aggressive growth."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8110"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "Investments with a {} risk profile typically offer a slightly higher yield than core properties. There’s potential for small-scale improvements and operational enhancements. It’s a compromise between safety and return."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8111"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "A {} risk profile supports a hybrid investment approach with increased return expectations. These properties are generally stable but not fully optimized. The strategy attracts moderately aggressive capital."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8112"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "This vehicle operates with a {} risk profile, aiming to improve underutilized real estate assets. Value creation often results from capital upgrades or new management practices. It's a medium-risk, medium-reward approach."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8113"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "Classified under the {} risk profile, this opportunity targets distressed or development-stage assets. These projects have the potential for high appreciation but come with uncertainty. They’re typically suited for sophisticated investors."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8114"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "Holding a {} risk profile, this investment is designed to produce steady, reliable income. It typically involves prime real estate with minimal operational risk. Preservation of capital is the top priority."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8115"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "With a {} risk profile, this portfolio includes quality properties with room for incremental improvement. It targets slightly higher returns without a drastic increase in risk. The strategy is suited for cautious optimists."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8116"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "The {} risk profile signifies a calculated push toward higher returns while maintaining strong fundamentals. It involves assets with improving dynamics and growing markets. Investors here are seeking a controlled growth path."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8117"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "Following a {} risk profile, the investment strategy seeks to identify and enhance underutilized assets. Active management and renovations are central components. Returns are expected to improve over time with execution."
+},
+{
+  "_id": {
+    "$oid": "6817a314377369745b6d8118"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "The {} risk profile entails a bold approach, often involving new developments or complex turnarounds. This strategy pursues high IRR but faces significant risks. It’s best for those seeking aggressive portfolio growth."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8119"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "A {} risk profile indicates minimal volatility and a focus on dependable cash flows. These assets are typically leased to stable tenants in primary locations. The profile fits institutional capital with conservative mandates."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811a"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "Properties with a {} risk profile may offer room for operational improvements while maintaining low downside risk. This profile balances long-term income with modest growth potential. Ideal for income-focused investors open to slight repositioning."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811b"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "A {} risk profile suggests potential for enhanced returns by targeting emerging submarkets or assets with near-term catalysts. These investments sit between pure core and value-add. Investors benefit from some upside without full exposure to riskier strategies."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811c"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "This investment falls under the {} risk profile, focusing on assets with a path to improvement. Strategies often include lease-up initiatives or capital expenditures. The risk-return profile is moderate, with value driven by execution."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811d"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "An investment aligned with the {} risk profile is driven by the potential for high capital gains. It may involve undeveloped land, niche property types, or complex financial structures. Substantial risk is present, along with the possibility for outsized performance."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811e"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "The {} risk profile denotes predictable, income-driven real estate with institutional-grade quality. Assets are fully leased and require minimal intervention. This profile is suitable for capital preservation strategies."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d811f"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "Portfolios with a {} risk profile invest in high-quality properties with some repositioning potential. These may involve improved tenant mixes or modest upgrades. This tier supports risk-aware strategies with moderate upside."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8120"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "Assets under a {} risk profile exhibit core traits but also offer upside through operational efficiency or market timing. Investors aim for a premium over core returns with controlled exposure. It blends growth potential with structural safety."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8121"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "A {} risk profile emphasizes transformation. Assets often underperform due to physical, leasing, or strategic challenges. With hands-on management, they can deliver superior returns. This strategy requires active oversight and a long-term vision."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8122"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "Investments bearing a {} risk profile are inherently speculative. They pursue breakthrough gains through development, heavy repositioning, or financial restructuring. These are best suited to investors seeking meaningful alpha and willing to tolerate swings."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8123"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "A {} risk profile is designed for steady performance, with long-term leases and little market sensitivity. It's commonly chosen by pension funds or insurance companies with income mandates."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8124"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "Investing with a {} risk profile allows for minor return enhancements over core strategies. These assets might be located in improving submarkets or require simple value initiatives. Risk remains low but is no longer negligible."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8125"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "The {} risk profile is suited for those seeking to capitalize on growth while avoiding deep repositioning. Properties may be mispriced due to market inefficiencies or underutilized layouts. Returns can outpace core with careful execution."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8126"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "Following a {} risk profile, this strategy targets real estate with fixable inefficiencies. Lease renewals, capex plans, or branding efforts typically unlock value. It's a hands-on but balanced risk option."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8127"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "The {} risk profile involves taking strategic risks in order to achieve superior outcomes. Assets may lack cash flow at entry but offer future upside. Returns hinge on timing, execution, and market shifts."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8128"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "Under the {} risk profile, investors gain exposure to stabilized, income-producing properties. Little active management is needed. This strategy emphasizes low volatility and capital security."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d8129"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "A {} risk profile involves a calculated pursuit of moderate growth, often through operational enhancements or light capex. The risk remains lower than value-add, with more predictable returns."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d812a"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "With a {} risk profile, the investment thesis includes modest improvements to near-core assets. Such properties may benefit from tenant turnover, amenity upgrades, or submarket evolution."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d812b"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "This real estate fund follows a {} risk profile, identifying properties needing active oversight. Renovation, re-leasing, or repositioning are common. A balance between risk and reward defines this category."
+},
+{
+  "_id": {
+    "$oid": "6817a36c377369745b6d812c"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "A {} risk profile represents the pursuit of high returns through transformative strategies. It includes land development, adaptive reuse, or complex asset turnarounds. Such projects are rarely cash-flowing at entry."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d812d"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.3%"
+    }
+  ],
+  "text": "The chart illustrates the fund’s performance from 2020 to 2024, with capital and income returns shown separately. The highest total return occurred in Q2 2021 at 9.1%, driven by a strong capital recovery. The bar labeled '5Y Annualised' shows a total return of {}, combining steady income and capital gains."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d812e"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.2%"
+    }
+  ],
+  "text": "Quarterly data from Q1 2019 to Q1 2024 shows both income and capital return trends. While income was relatively stable, capital gains peaked in late 2021. The figure on the right indicates a 5-year annualised return of {}, highlighting overall fund performance since inception."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d812f"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.9%"
+    }
+  ],
+  "text": "The fund's performance has varied over time, with notable declines in 2022 followed by a gradual recovery in 2023. Income remained consistent, while capital returns fluctuated more. Since inception, the 5-year annualised return is shown as {} in the bar on the right-hand side of the chart."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8130"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.8%"
+    }
+  ],
+  "text": "The stacked bars represent quarterly income and capital returns, with a line tracing net performance. Notably, Q4 2021 saw the highest return, and Q3 2022 the lowest. On the far right, a separate bar labeled '5Y Annualised' displays a total return of {} since fund inception."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8131"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.6%"
+    }
+  ],
+  "text": "From Q3 2019 to Q1 2024, the fund experienced multiple shifts in performance. A steep drop occurred in 2022, followed by modest gains in 2023. The overall 5-year annualised return is {}, combining both capital and income returns."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8132"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.0%"
+    }
+  ],
+  "text": "The image displays quarterly performance data, highlighting both income and capital growth. A recovery trend is visible starting in Q1 2023. To the right, a bar titled '5Y Annualised' presents a total return of {}, reflecting overall performance since launch."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8133"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.5%"
+    }
+  ],
+  "text": "Stacked bar charts show each quarter’s income and capital returns, with a line tracking net return. The fund’s worst period was Q3 2022, while Q4 2021 marked a high point. The '5Y Annualised' bar at the end shows a total return of {} since inception."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8134"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.3%"
+    }
+  ],
+  "text": "The fund’s total return history is visualized with income and capital return bars. While 2022 posed a challenge, returns stabilized in 2023. The annualised return over five years, as shown on the right, is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8135"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.4%"
+    }
+  ],
+  "text": "In the main chart, quarterly returns are split into capital and income. Performance was strongest in Q4 2021, driven by capital gains. The far-right bar labeled '5Y Annualised' reports a total return of {} since fund inception."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8136"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.1%"
+    }
+  ],
+  "text": "The fund's net performance over time is shown with stacked bars and a trend line. While income returns were consistent, capital returns showed volatility. A separate bar to the right shows the total return since inception as {}."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8137"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.2%"
+    }
+  ],
+  "text": "The chart summarizes Feeder Fund’s quarterly performance from Q3 2019 to Q1 2024. It includes segmented bar graphs for capital and income returns and a line plot showing total return over time. On the left, performance indicators include a total return since inception of {}. The return over the last 12 months is 0.5%, and Q1 2024 achieved 0.4%. The target distribution yield for 2024 is 4.0%. The data reveals a peak in Q4 2021 at 8.7% (7.9% capital, 0.8% income). A downturn followed throughout 2022, bottoming out in Q3 2022 with -10.1%. A steady recovery began in early 2023. Q1 2024 posted a return of 0.4%, with 1.2% income and -0.8% capital. On the right, the '5Y Annualised' bar indicates an annualised return of 7.2%, with 3.4% from income and 2.4% from capital. Notes indicate a 4.0% annualised net return since mid-2020 and a 0.4% rolling return over the past year."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8138"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.3%"
+    }
+  ],
+  "text": "The visual represents performance trends of the Feeder Fund between Q3 2019 and Q1 2024 using stacked income and capital bars plus a net return line. Summary figures to the left show a cumulative return of {} since inception. The return over the latest 12 months stands at 0.2%, with Q1 2024 delivering 0.3%. The 2024 distribution yield goal is 4.1%. A strong performance was seen in Q4 2021 at 8.5% (7.6% capital, 0.9% income), followed by a 2022 slump ending in a -10.0% low in Q3. A gradual recovery was observed through 2023 and Q1 2024. The recent quarter included a 0.3% return (1.0% income, -0.7% capital). A final bar labeled '5Y Annualised' reports an annualised return of 6.3%, made up of 3.5% income and 2.8% capital. The chart’s footnote shows an inception-to-date return of 4.0% and a one-year return of 0.3%."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8139"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.7%"
+    }
+  ],
+  "text": "This infographic covers Feeder Fund’s performance from Q3 2019 to Q1 2024. Bar graphs display income and capital returns; a line represents total return. Key metrics to the left note a total return since inception of {}. The past year saw a return of 0.1%, while Q1 2024 added 0.5%. A 4.0% yield is targeted for 2024. Q4 2021 was the strongest quarter with 8.6% total return (7.7% capital, 0.9% income), followed by a steep drop in 2022, hitting -10.3% in Q3. Recovery began in Q1 2023. Q1 2024 yielded 0.5% (1.4% income, -0.9% capital). A '5Y Annualised' column shows 5.7% overall, comprised of 3.3% income and 2.4% capital. A note states the fund has returned 4.0% annually since inception, with a 0.5% return over the last 12 months."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813a"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.9%"
+    }
+  ],
+  "text": "Feeder Fund's historical performance from Q3 2019 through Q1 2024 is visualized with segmented bars for income and capital, and a line for net return. The panel on the left notes an inception-to-date return of {}. Over the past year, the return was 0.4%, with Q1 2024 showing 0.2%. The 2024 yield target is 4.2%. Q4 2021 marked the fund's peak at 8.8% (8.0% capital, 0.8% income), followed by a downturn in 2022 to -9.7%. The fund gradually recovered throughout 2023 and Q1 2024. The recent quarter included a 0.2% total return (0.9% income, -0.7% capital). A final annualised figure labeled '5Y Annualised' reports 6.9%, composed of 3.6% income and 2.7% capital. Additional text notes a 4.1% annual return since mid-2020, and a 0.2% return over the last year."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813b"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.5%"
+    }
+  ],
+  "text": "This chart illustrates the return breakdown of the Feeder Fund from Q3 2019 to Q1 2024. Income and capital returns are shown via stacked bars, with a line tracing total return. To the left, headline figures report a total return since inception of {}. The trailing 12-month return is 0.0%, while Q1 2024 recorded 0.1%. The target yield for 2024 is 4.0%. The fund peaked in Q4 2021 with 8.3% (7.5% capital, 0.8% income), dropped to -10.4% in Q3 2022, then began recovering through 2023. In Q1 2024, the total return was 0.1% (0.8% income, -0.7% capital). On the right-hand side, the '5Y Annualised' column reflects a value of 4.5%, made up of 2.7% income and 1.8% capital. Annotations confirm a 3.7% annualised return since inception and a flat return over the last 12 months."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813c"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.5%"
+    }
+  ],
+  "text": "Quarterly fund performance of the Feeder Fund is shown from Q3 2019 to Q1 2024. Bar charts illustrate income and capital returns; total return is represented by a line. The left-hand side lists key results, including a total net return since inception of {}. Over the last year, the fund returned 0.3%; Q1 2024 added 0.5%. A 4.0% yield is targeted in 2024. Highest return occurred in Q4 2021 with 8.9% (8.1% capital, 0.8% income), followed by losses in 2022, bottoming at -10.1%. Recovery continued into 2023 and Q1 2024. That quarter ended at 0.5% (1.3% income, -0.8% capital). The final bar labeled '5Y Annualised' shows an annual return of 6.5%, split between 3.4% income and 3.1% capital. A footnote reports a 4.2% inception-to-date return and a 0.5% rolling return."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813d"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.0%"
+    }
+  ],
+  "text": "Feeder Fund’s return profile from Q3 2019 through Q1 2024 is depicted using a dual bar and line chart. On the left panel, performance indicators list a total net return since inception of {}. The rolling 12-month return is 0.2%, with 0.3% for Q1 2024. The distribution yield for 2024 is targeted at 4.0%. A notable high occurred in Q4 2021 at 8.2% (7.3% capital, 0.9% income), followed by a low in Q3 2022 at -10.0%. From 2023 onward, performance improved steadily. Q1 2024 saw 0.3% (1.0% income, -0.7% capital). On the right, a '5Y Annualised' figure indicates a return of 5.0%, made up of 2.8% income and 2.2% capital. A note at the bottom highlights a 3.8% annual return since launch and a 0.3% return in the past year."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813e"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.0%"
+    }
+  ],
+  "text": "The figure displays performance of the Feeder Fund over the period Q3 2019 to Q1 2024 using bar and line visualizations. The left summary section notes a cumulative return since inception of {}. The last 12 months delivered a return of 0.4%, while Q1 2024 added 0.6%. The 2024 yield target remains at 4.0%. In Q4 2021, total return reached 8.7% (7.8% capital, 0.9% income), before a decline to -10.2% in Q3 2022. Recovery began in 2023 and continued into Q1 2024, which showed 0.6% (1.4% income, -0.8% capital). The '5Y Annualised' bar shows 7.0%, split into 3.7% income and 2.9% capital. At the bottom, it's noted the fund has returned 4.2% annually since inception, and 0.6% in the last year."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d813f"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.8%"
+    }
+  ],
+  "text": "This chart presents the Feeder Fund's returns from Q3 2019 to Q1 2024. Income and capital returns are visualized with bars, and the net return with a line. The performance summary on the left includes a total return of {} since inception. The past 12 months yielded 0.0%, and Q1 2024 showed 0.2%. The fund’s 2024 yield goal is 4.0%. Q4 2021 marked a high at 8.1% (7.3% capital, 0.8% income), followed by a drop to -9.9% in Q3 2022. A gradual recovery followed. In Q1 2024, the return was 0.2% (1.0% income, -0.8% capital). The rightmost '5Y Annualised' column indicates 4.8%, consisting of 2.6% income and 2.2% capital. The fund has delivered 3.9% annually since launch and had a flat one-year return."
+},
+{
+  "_id": {
+    "$oid": "6817a378377369745b6d8140"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.9%"
+    }
+  ],
+  "text": "Displayed is the quarterly return history of Feeder Fund from Q3 2019 to Q1 2024, with income and capital shown as bars and net return as a line. To the left, the total return since inception is noted as {}. The rolling 12-month return is 0.3%, with Q1 2024 posting 0.4%. The 2024 yield target is 4.0%. Q4 2021 showed a return of 8.4% (7.6% capital, 0.8% income), followed by a downturn to -10.0% in Q3 2022. Since Q1 2023, performance has rebounded. Q1 2024 ended with 0.4% (1.1% income, -0.7% capital). The '5Y Annualised' bar on the right lists 5.9%, made up of 3.2% income and 2.7% capital. The fund has returned 4.0% per annum since inception and 0.4% in the past 12 months."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8141"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.4%"
+    }
+  ],
+  "text": "The feeder fund has generated a total return of {} since inception. This includes both income and capital growth over the past five years."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8142"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.5%"
+    }
+  ],
+  "text": "Since it started, the fund has delivered an annualised return of {}. This reflects a combination of stable income and modest capital gains."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8143"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.9%"
+    }
+  ],
+  "text": "An annualised return of {} has been achieved by the fund since its launch. Income returns contributed the majority of this performance."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8144"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.1%"
+    }
+  ],
+  "text": "The fund has consistently performed well, returning {} on an annualised basis. This reflects data from 2019 to 2024."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8145"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.8%"
+    }
+  ],
+  "text": "A total annualised return of {} has been achieved since the fund’s inception. The return includes gains from both income and capital."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8146"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.0%"
+    }
+  ],
+  "text": "The feeder fund shows an annualised return of {} since its launch. Capital appreciation played a significant role in this outcome."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8147"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.2%"
+    }
+  ],
+  "text": "The annualised total return for the fund stands at {}. This metric is calculated from inception to the current reporting period."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8148"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.6%"
+    }
+  ],
+  "text": "Since its inception, the fund has generated an average yearly return of {}. This performance includes both up and down market periods."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d8149"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.7%"
+    }
+  ],
+  "text": "The feeder fund’s cumulative return since inception, annualised, is {}. This is based on quarterly performance data."
+},
+{
+  "_id": {
+    "$oid": "6817a384377369745b6d814a"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.6%"
+    }
+  ],
+  "text": "As of Q1 2024, the fund’s annualised return since inception is {}. It reflects both income and capital returns over time."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d814b"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.2%"
+    }
+  ],
+  "text": "Feeder Fund’s performance from Q3 2019 to Q1 2024 is visualized with bars for capital and income returns and a line for total return. The return for Q1 2024 was 0.4%, while the last 12 months yielded 0.3%. The target yield for 2024 remains at 4.0%. Q4 2021 marked a peak at 8.6%, followed by underperformance in 2022. 2023 saw a modest recovery. The '5Y Annualised' return is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d814c"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.4%"
+    }
+  ],
+  "text": "This chart covers Feeder Fund’s quarterly returns from Q3 2019 through Q1 2024 using capital/income segmentation. Q1 2024 contributed a 0.3% return, while the 12-month trailing return was 0.2%. The income yield target for 2024 is 4.0%. A high point was observed in Q4 2021 before a downturn in 2022. 2023 delivered flat to slightly positive returns. The '5Y Annualised' figure is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d814d"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.8%"
+    }
+  ],
+  "text": "Quarterly performance of Feeder Fund from Q3 2019 to Q1 2024 is displayed using capital and income bars with a total return overlay. A 0.5% return was recorded for Q1 2024, and the rolling 12-month return was 0.4%. The distribution target for 2024 is 4.1%. Q4 2021 was a strong quarter, followed by losses in 2022. Recovery was evident throughout 2023. The final bar shows a '5Y Annualised' return of {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d814e"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.9%"
+    }
+  ],
+  "text": "The figure summarizes Feeder Fund’s returns from Q3 2019 through Q1 2024 with segmented quarterly bars. Q1 2024 performance stood at 0.2%, while the last 12 months returned just 0.1%. A 4.0% yield target has been set for 2024. Q4 2021 was a notable outlier before underperformance in 2022. Returns stabilized in 2023. The '5Y Annualised' performance is given as {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d814f"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.1%"
+    }
+  ],
+  "text": "Feeder Fund’s quarterly performance from Q3 2019 to Q1 2024 is shown using income and capital return bars. The most recent quarter returned 0.4%, and the rolling 12-month return was 0.3%. The fund maintains a 4.0% income yield target for 2024. Performance peaked in Q4 2021 before a marked decline in 2022. A rebound in 2023 followed. The ‘5Y Annualised’ figure is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d8150"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.6%"
+    }
+  ],
+  "text": "This chart displays Feeder Fund’s return segments between Q3 2019 and Q1 2024. A return of 0.3% was posted in Q1 2024, while the trailing one-year figure was 0.2%. The yield target for the current year is 4.0%. The fund’s best quarter was Q4 2021 before losses hit in 2022. Returns began to recover during 2023. The ‘5Y Annualised’ return is reported as {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d8151"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.6%"
+    }
+  ],
+  "text": "The graph highlights Feeder Fund’s quarterly performance from Q3 2019 to Q1 2024 through income/capital breakdowns. Q1 2024 achieved a return of 0.5%, with a 12-month total of 0.4%. The fund aims for a 4.1% income yield this year. After a strong Q4 2021, 2022 posted negative returns. The fund rebounded over 2023. The '5Y Annualised' number is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d8152"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.2%"
+    }
+  ],
+  "text": "From Q3 2019 to Q1 2024, Feeder Fund’s performance is charted with bars for income and capital gains. In Q1 2024, the return was 0.2%, and over the last year, it reached 0.1%. A 4.0% yield target is in place for 2024. Q4 2021 was the strongest quarter, with subsequent decline in 2022. Returns leveled out in 2023. The '5Y Annualised' result is {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d8153"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.0%"
+    }
+  ],
+  "text": "Performance results for Feeder Fund between Q3 2019 and Q1 2024 are displayed using return components. The fund posted a return of 0.4% in Q1 2024 and 0.3% for the past 12 months. Its yield target for 2024 remains 4.0%. A performance spike was recorded in Q4 2021 before correction in 2022. Recovery signs emerged in 2023. The '5Y Annualised' return reads as {}."
+},
+{
+  "_id": {
+    "$oid": "6817a389377369745b6d8154"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.5%"
+    }
+  ],
+  "text": "The chart illustrates Feeder Fund’s quarterly returns from Q3 2019 to Q1 2024 with split return categories. Q1 2024 produced a 0.3% gain, while the previous 12 months added 0.2%. A 4.0% yield target guides 2024 expectations. Q4 2021 saw peak performance, followed by declines in 2022. Stability returned across 2023. The closing bar labeled '5Y Annualised' shows {}."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8caae"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "The investment vehicle is structured around a {} risk profile, prioritizing capital preservation and consistent returns. Assets classified under this profile typically involve fully leased properties in prime urban locations. The strategy minimizes leverage and emphasizes long-term lease agreements. This approach suits conservative investors seeking minimal exposure to market fluctuations. {} strategies are often used to anchor diversified portfolios with a predictable income stream."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8caaf"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "This fund operates under a {} risk profile, slightly increasing risk to pursue incremental returns. {} assets often include properties with some leasing or operational upside. Investors accept modest development exposure in exchange for higher yield. The profile balances income generation with measured capital appreciation. Such strategies suit those looking to enhance performance without veering too far into speculative territory."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab0"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "Designed for disciplined yet ambitious investors, the {} risk profile blends institutional-grade stability with moderate upside. While preserving most elements of a traditional core approach, {} includes assets with room for rent reversion or mild repositioning. These opportunities require active management and market knowledge. Returns can outpace Core or Core+ strategies with appropriate asset selection. It’s a profile suitable for investors comfortable with calculated enhancement opportunities."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab1"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "The fund targets a {} risk profile, emphasizing assets requiring operational improvements. Typically, these include under-managed properties or those in transitioning submarkets. Investors aim to drive appreciation through leasing, renovations, or repositioning. This approach involves medium risk and generally requires active management. It is ideal for investors seeking returns above Core levels while still controlling for downside exposure."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab2"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "This strategy falls under an {} risk profile, focused on high-risk, high-return investments. Typical assets may include ground-up developments, distressed properties, or assets in emerging markets. Investors expect significant capital growth through complex restructuring or market timing. {} investments require sophisticated oversight and are subject to macroeconomic volatility. This profile is tailored for experienced investors comfortable with market and execution risks."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab3"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core"
+    }
+  ],
+  "text": "A {} risk profile investment prioritizes income stability and asset quality. It generally includes institutional-grade real estate in primary markets. The emphasis is on long-term leases with creditworthy tenants. {} strategies tend to have minimal vacancy risk and low volatility. They serve as a foundation for conservative real estate portfolios."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab4"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core+"
+    }
+  ],
+  "text": "Assets following a {} risk profile combine income generation with light value enhancements. {} properties might require cosmetic upgrades or strategic leasing. The approach balances safety with moderate upside potential. Investors are willing to accept slightly elevated risk for improved returns. This makes it a preferred strategy for moderately conservative investors."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab5"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Core++"
+    }
+  ],
+  "text": "The {} strategy offers a hybrid model between low-risk stability and mild asset repositioning. It involves partial tenant turnover and selective capex initiatives. {} profiles appeal to investors seeking returns above Core+ while avoiding full Value-add exposure. Risk mitigation is central to portfolio construction. This approach requires experienced asset managers to navigate operational enhancements."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab6"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Value-add"
+    }
+  ],
+  "text": "{} profiles target assets with strong upside potential through repositioning. Investors may pursue interior renovations, amenity upgrades, or tenant mix changes. {} strategies carry moderate-to-high execution risk. Success depends on timing and market conditions. They are ideal for investors seeking above-market total returns."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab7"
+  },
+  "entities": [
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    },
+    {
+      "label": "RISKPROFILE",
+      "value": "Opportunistic"
+    }
+  ],
+  "text": "{} real estate investments aim for outsized returns through active repositioning or development. {} assets may be underperforming or located in emerging markets. Investors assume significant risk in exchange for potential double-digit returns. The approach demands intensive management and flexible capital. It's best suited for institutional investors with high risk tolerance."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab8"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "6.3%"
+    }
+  ],
+  "text": "The portfolio's 5-year performance yielded a total return of {}, reflecting strong income stability. Despite modest capital appreciation, steady rental income contributed meaningfully to performance. The asset mix favored industrial and multifamily segments with high occupancy rates. Compared to benchmarks, the fund performed slightly above average. This consistent result reflects disciplined management and market positioning."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cab9"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "9.1%"
+    }
+  ],
+  "text": "A total return of {} was achieved over the last 12 months, primarily driven by capital gains. The disposition of a logistics portfolio in Q3 significantly contributed to these results. Net operating income also increased due to strong leasing activity. Compared to prior years, this marks one of the highest annual returns. The outcome aligns with our high-conviction allocation strategy."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8caba"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.2%"
+    }
+  ],
+  "text": "The investment generated a TRIST of {}, underscoring stable income from core office holdings. Market volatility had limited impact due to the defensive asset mix. Appreciation was modest but consistent across geographies. Investors benefited from steady cash yields and limited drawdowns. The return supports a conservative but resilient portfolio thesis."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cabb"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "10.2%"
+    }
+  ],
+  "text": "The most recent reporting cycle shows a TRIST of {}, fueled by opportunistic asset sales. Gains were realized ahead of business plan timelines. The retail segment, particularly grocery-anchored centers, saw significant cap rate compression. This performance exceeded both internal targets and peer benchmarks. It highlights the effectiveness of agile capital deployment."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cabc"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "4.9%"
+    }
+  ],
+  "text": "During the last fiscal year, the fund delivered a total return of {}, below the 10-year average. Headwinds in the office sector and capex delays impacted appreciation. However, income stability remained strong across logistics holdings. Risk-adjusted returns stayed within strategic expectations. Ongoing repositioning efforts are expected to drive improvements going forward."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cabd"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "7.4%"
+    }
+  ],
+  "text": "For the year ending in December, the fund posted a TRIST of {}, aligning closely with guidance. Portfolio resilience was enhanced by diversified geographic exposure. Yield compression in the multifamily sector drove capital appreciation. Income remained consistent despite minor tenant turnover. Performance supports the effectiveness of our hybrid strategy."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cabe"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "8.8%"
+    },
+    {
+      "label": "TRIST",
+      "value": "8.8%"
+    }
+  ],
+  "text": "Our total return over the last 36 months reached {}, reflecting proactive asset management. Dispositions were timed to capitalize on market momentum. {} return exceeded the average of peer funds by 120 basis points. Consistent rent growth contributed to NOI expansion. The result affirms the fund’s high-quality asset base."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cabf"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "5.9%"
+    }
+  ],
+  "text": "The TRIST for the trailing twelve months was {}, indicative of stable performance. Strong leasing in suburban office parks mitigated headwinds from urban vacancies. The portfolio maintained low leverage and high liquidity. Comparable funds in the same category returned slightly less. This reinforces the value of disciplined asset selection."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cac0"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "11.0%"
+    }
+  ],
+  "text": "A standout year saw the fund return {}, driven by aggressive development plays. Speculative projects in Germany and Spain realized early lease-up success. The fund took advantage of compressed cap rates and favorable financing terms. Although high risk, the upside potential was realized. This outcome demonstrates the reward of strategic development."
+},
+{
+  "_id": {
+    "$oid": "6817b3dc7431115230a8cac1"
+  },
+  "entities": [
+    {
+      "label": "TRIST",
+      "value": "3.8%"
+    }
+  ],
+  "text": "With a TRIST of {}, this year marked the lowest performance in the past decade. The decline was mainly due to write-downs on two underperforming assets. While income streams remained largely intact, capital values dropped. A recovery is expected as repositioning efforts progress. Management remains committed to long-term performance."
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d693"
+  },
+  "text": "The Fund is a closed-end, Dublin-based fund providing an attractive {} opportunity, leveraging expertise in global real estate investments. It offers diversification in terms of international geographies and sectors: Residential, Industrial, and Healthcare.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d694"
+  },
+  "text": "This Fund is a structured, New York-based entity presenting an intriguing {} exposure, utilizing proficiency in US real estate markets. It assures a diversified portfolio across North American geographies and sectors: Data Centers, Hospitality, and Logistics.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d695"
+  },
+  "text": "An open-ended, Singapore-based fund, it offers enticing {} investment opportunities, tapping into Asian real estate landscapes. It ensures diversification through multiple regions and sectors: Warehouses, Retail Parks, and Multifamily Properties.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d696"
+  },
+  "text": "The Fund provides an innovative {} strategy, domiciled in London, with a focus on bringing diverse global real estate holdings together. It encompasses various geographies and sectors: Commercial, Specialty Retail, and Resorts.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d697"
+  },
+  "text": "This Luxembourg-based fund is recognized for its comprehensive {} approach, targeting European real estate assets. It diversifies through numerous geographies and sectors: Urban Infrastructure, Corporate Offices, and Serviced Apartments.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d698"
+  },
+  "text": "A Madrid-based, perpetual fund that presents an exclusive {} access, capitalizing on expertise within Spanish real estate markets. It diversifies across various regions and sectors: Mixed-use Developments, Entertainment Complexes, and Shopping Malls.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d699"
+  },
+  "text": "The Fund is designed as an investment vehicle offering high-value {} prospects, based in Paris and focused on French real estate markets. It spans diverse geographies and sectors: Studios, Business Parks, and Leisure Facilities.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69a"
+  },
+  "text": "This closed-end, Brussels-based fund emphasizes a dynamic {} angle, engaging with real estate across Belgian markets. It ensures diversity through strategic choices across regions and sectors: Food Courts, Waterfront Projects, and High Street Shops.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69b"
+  },
+  "text": "A Dublin-centered fund with continuous operations, providing a specialized {} outlook, harnessing knowledge of Irish real estate spaces. It promises diversity in regions and sectors: Restorative Architecture, Flexible Workspaces, and Prime Residential Blocks.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69c"
+  },
+  "text": "The Fund is a tailored investment solution offering promising {} openings, rooted in Vienna with a penchant for Austrian real estate frameworks. It covers varied geographies and sectors: University Campuses, Mega Malls, and Mountain Resorts.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69d"
+  },
+  "text": "Based in Stockholm, the Fund is structured to deliver comprehensive {} exposure, with insights into Swedish real estate developments. It achieves diversification through varied landscapes and sectors: Eco-Friendly Constructs, Boutique Hotels, and Tourism Hotspots.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69e"
+  },
+  "text": "The Fund, situated in Milan, advances an integrated {} exposure, capitalizing on Italian real estate ventures. It assures comprehensive diversification across different territories and sectors: Metropolitan Developments, Cultural Centers, and Wellness Retreats.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d69f"
+  },
+  "text": "This Berlin-oriented fund is perpetual, designed for efficient {} outreach, underpinning German real estate enterprises. It presents diversified options within geographies and sectors: Sustainable Building, Trade Hubs, and Exclusive Condominiums.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a0"
+  },
+  "text": "An Amsterdam-based fund, managed for longevity, thrives on delivering a distinctive {} profile, specializing in Dutch real estate realms. It incites diversification across locales and sectors: Urban Retreat, Coastal Properties, and Artist Quarters.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a1"
+  },
+  "text": "Offering refined {} access, this Zurich-established fund focuses on Swiss real estate markets with a perpetual structure. It sustains diversity across varied regions and industries: Alpine Lodges, Co-living Spaces, and Learning Centers.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a2"
+  },
+  "text": "The Fund, located in Oslo, operates under a thematic approach offering tailored {} solutions, targeting Norwegian real estate spheres. It retains diversification across sectors and geographies: Green Buildings, Heritage Sites, and Avant-Garde Hotels.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a3"
+  },
+  "text": "A Moscow-based, closed-end fund, presenting a noteworthy {} exposure, enhances Russian real estate portfolios with strategic insight. It achieves diversification in various territories and sectors: Cultural Landmarks, Suburban Expansion, and Luxury Outlets.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a4"
+  },
+  "text": "Rooted in Toronto, the Fund offers significant {} opportunities, leveraging Canadian real estate proficiency. It capitalizes on diversified avenues across sectors and geographies: Conference Venues, Mixed-use Towers, and Residential Estates.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a5"
+  },
+  "text": "This Sydney-originated fund offers perpetual {} prospects, capturing Australian real estate dynamics with expansive breadth. It assures diversity through regional adaptations and sector choices: Sports Complexes, Emerging Markets, and Lifestyle Residences.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c3d605c27c1bcb8d6a6"
+  },
+  "text": "The Fund provides textured {} exposure, domiciled in Hong Kong, empowered by Asian real estate expertise. It ensures diversification via strategic regions and sectors: Financial Districts, Boutique Retail Shops, and High-rise Housing.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6a7"
+  },
+  "text": "Explore the diversity of the {} investment opportunities in North American Prime Cities.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6a8"
+  },
+  "text": "Discover the potential of {} investment strategies in Australia's emerging markets.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6a9"
+  },
+  "text": "Uncover the benefits of {} investments within the Asia-Pacific region's tech sector.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6aa"
+  },
+  "text": "Assess the risks and rewards of {} asset classes in Middle Eastern financial hubs.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6ab"
+  },
+  "text": "Investigate the advantages of {} ventures in South America's growing urban centers.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6ac"
+  },
+  "text": "Understand the dynamics of {} investment portfolios in Central Europe's resilient markets.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6ad"
+  },
+  "text": "Evaluate the potential of {} strategies in the fast-evolving African economies.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6ae"
+  },
+  "text": "Analyze the landscape of {} investment options in Scandinavian innovation centers.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6af"
+  },
+  "text": "Dive into the complexities of {} investments in Eastern European logistic corridors.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b0"
+  },
+  "text": "Discover the strategic benefits of {} avenues in Caribbean tourism hotspots.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b1"
+  },
+  "text": "Explore new horizons with {} investment paths in Southeast Asia's digital landscape.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b2"
+  },
+  "text": "Examine the opportunities offered by {} initiatives in Canadian sustainable developments.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b3"
+  },
+  "text": "Tap into the promise of {} investments in Iberian Peninsula's renewable energy sector.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b4"
+  },
+  "text": "Identify the growth potential of {} assets in New Zealand's agricultural market.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b5"
+  },
+  "text": "Seek out lucrative {} prospects in the Indian subcontinent's infrastructure projects.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b6"
+  },
+  "text": "Position yourself for success with {} opportunities in the Adriatic luxury real estate market.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b7"
+  },
+  "text": "Assess the returns of {} investments within the British tech innovation sphere.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b8"
+  },
+  "text": "Strategize with {} possibilities in South Korea's cutting-edge urban transformation.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6b9"
+  },
+  "text": "Embrace the trends in {} investments within the Baltics' manufacturing sectors.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68190c44605c27c1bcb8d6ba"
+  },
+  "text": "Delve into the promising future of {} opportunities in the Mediterranean cultural hubs.",
+  "entities": [
+    {
+      "value": "Core/Core+",
+      "label": "STRATEGIE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e399e"
+  },
+  "text": "The fund targets Tier 1 countries such as {} for a minimum of 75% allocation.",
+  "entities": [
+    {
+      "value": "France",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e399f"
+  },
+  "text": "Investments in {} should not exceed 40% of the total portfolio.",
+  "entities": [
+    {
+      "value": "Germany",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a0"
+  },
+  "text": "The Tier 1 category includes {} as a core investment destination.",
+  "entities": [
+    {
+      "value": "United Kingdom",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a1"
+  },
+  "text": "Assets may be allocated up to 10% in countries like {}, considered Tier 2.",
+  "entities": [
+    {
+      "value": "Portugal",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a2"
+  },
+  "text": "The fund maintains a limit of 20% for non-euro investments, such as in {}.",
+  "entities": [
+    {
+      "value": "Switzerland",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a3"
+  },
+  "text": "{} is listed among the core Tier 1 European countries.",
+  "entities": [
+    {
+      "value": "Belgium",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a4"
+  },
+  "text": "Investments in the {} are included in the Tier 1 country group.",
+  "entities": [
+    {
+      "value": "Nordics",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a5"
+  },
+  "text": "{} is subject to the 40% country cap under Tier 1 rules.",
+  "entities": [
+    {
+      "value": "Italy",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a6"
+  },
+  "text": "{}, as a Tier 1 country, is part of the core real estate strategy.",
+  "entities": [
+    {
+      "value": "Luxembourg",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a7"
+  },
+  "text": "{} is targeted for core investment within the 75% Tier 1 minimum.",
+  "entities": [
+    {
+      "value": "Netherlands",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a8"
+  },
+  "text": "The fund's allocation to {} is capped at 10% under Tier 2 rules.",
+  "entities": [
+    {
+      "value": "Spain",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39a9"
+  },
+  "text": "Investments in {} are part of the Tier 1 strategy for European real estate.",
+  "entities": [
+    {
+      "value": "FR",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39aa"
+  },
+  "text": "The portfolio includes assets in {} as part of its Tier 1 allocation.",
+  "entities": [
+    {
+      "value": "DE",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39ab"
+  },
+  "text": "Under Tier 2 guidelines, investments in {} are limited to 5%.",
+  "entities": [
+    {
+      "value": "Portugal",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39ac"
+  },
+  "text": "The fund's exposure to {} is managed to comply with the 40% country cap.",
+  "entities": [
+    {
+      "value": "IT",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39ad"
+  },
+  "text": "As a Tier 1 country, {} is a key focus for core investments.",
+  "entities": [
+    {
+      "value": "United Kingdom",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39ae"
+  },
+  "text": "The fund targets a minimum allocation of 75% to Tier 1 countries like {}.",
+  "entities": [
+    {
+      "value": "NL",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39af"
+  },
+  "text": "Non-euro investments, such as those in {}, are capped at 20%.",
+  "entities": [
+    {
+      "value": "CH",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b0"
+  },
+  "text": "The Tier 1 allocation includes countries like {}, with a maximum of 40% per country.",
+  "entities": [
+    {
+      "value": "BE",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b1"
+  },
+  "text": "Investments in {} are part of the fund's strategy to diversify across Tier 1 geographies.",
+  "entities": [
+    {
+      "value": "LU",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b2"
+  },
+  "text": "The fund's allocation to {} is critical for achieving its Tier 1 objectives.",
+  "entities": [
+    {
+      "value": "Austria",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b3"
+  },
+  "text": "Investments in {} are capped at 15% to maintain portfolio balance.",
+  "entities": [
+    {
+      "value": "SE",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b4"
+  },
+  "text": "The Tier 1 allocation strategy includes countries like {}, with a focus on stable returns.",
+  "entities": [
+    {
+      "value": "Norway",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b5"
+  },
+  "text": "The portfolio's exposure to {} is limited to 25% under Tier 1 rules.",
+  "entities": [
+    {
+      "value": "DK",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b6"
+  },
+  "text": "As part of the Tier 2 strategy, investments in {} are capped at 5%.",
+  "entities": [
+    {
+      "value": "Poland",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b7"
+  },
+  "text": "The fund's diversification strategy includes assets in {}.",
+  "entities": [
+    {
+      "value": "CZ",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b8"
+  },
+  "text": "Under Tier 1 guidelines, {} is a key market for core investments.",
+  "entities": [
+    {
+      "value": "Ireland",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39b9"
+  },
+  "text": "The allocation to {} is managed to comply with the 40% per-country cap.",
+  "entities": [
+    {
+      "value": "FI",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39ba"
+  },
+  "text": "Investments in {} are part of the fund's strategy to diversify across Tier 1 geographies.",
+  "entities": [
+    {
+      "value": "HU",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39bb"
+  },
+  "text": "The fund targets a minimum allocation of 75% to Tier 1 countries like {}.",
+  "entities": [
+    {
+      "value": "Slovakia",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39bc"
+  },
+  "text": "Non-euro investments, such as those in {}, are capped at 20%.",
+  "entities": [
+    {
+      "value": "BG",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39bd"
+  },
+  "text": "The Tier 1 allocation includes countries like {}, with a maximum of 40% per country.",
+  "entities": [
+    {
+      "value": "RO",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39be"
+  },
+  "text": "Investments in {} are part of the fund's strategy to diversify across Tier 1 geographies.",
+  "entities": [
+    {
+      "value": "GR",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39bf"
+  },
+  "text": "The fund's exposure to {} is managed to comply with the 40% country cap.",
+  "entities": [
+    {
+      "value": "Estonia",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c0"
+  },
+  "text": "As a Tier 1 country, {} is a key focus for core investments.",
+  "entities": [
+    {
+      "value": "Latvia",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c1"
+  },
+  "text": "The fund targets a minimum allocation of 75% to Tier 1 countries like {}.",
+  "entities": [
+    {
+      "value": "Lithuania",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c2"
+  },
+  "text": "Non-euro investments, such as those in {}, are capped at 20%.",
+  "entities": [
+    {
+      "value": "HR",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c3"
+  },
+  "text": "The Tier 1 allocation includes countries like {}, with a maximum of 40% per country.",
+  "entities": [
+    {
+      "value": "Slovenia",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c4"
+  },
+  "text": "Investments in {} are part of the fund's strategy to diversify across Tier 1 geographies.",
+  "entities": [
+    {
+      "value": "CY",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819cafce48ac7cab43e39c5"
+  },
+  "text": "The fund's allocation to {} is capped at 10% under Tier 2 rules.",
+  "entities": [
+    {
+      "value": "Malta",
+      "label": "COUNTRY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b4"
+  },
+  "text": "The expected project IRR is {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b5"
+  },
+  "text": "Our projected EBIT margin stands at {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b6"
+  },
+  "text": "The estimated dividend yield is going to be around {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b7"
+  },
+  "text": "Analysts predict the ROI will reach {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b8"
+  },
+  "text": "The target gross margin is expected to be {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69b9"
+  },
+  "text": "The forecasted growth in revenue is projected at {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69ba"
+  },
+  "text": "We are aiming for a net income increase of {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69bb"
+  },
+  "text": "Our anticipated cap rate for the property is {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69bc"
+  },
+  "text": "The expected profit margin should hover around {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69bd"
+  },
+  "text": "The predicted ROE after tax will be approximately {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69be"
+  },
+  "text": "The projected operating cash flow margin is estimated to be {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69bf"
+  },
+  "text": "The target EBITDA multiple is forecasted to be within {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c0"
+  },
+  "text": "Our expected asset turnover ratio is {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c1"
+  },
+  "text": "The anticipated annualized return for the fund is {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c2"
+  },
+  "text": "The estimated market share should expand by {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c3"
+  },
+  "text": "The target payout ratio has been set at {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c4"
+  },
+  "text": "Analysts project an increase in EPS of about {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c5"
+  },
+  "text": "Our forecasted leverage ratio aims to be at {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c6"
+  },
+  "text": "The predicted free cash flow yield is anticipated to be {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc1236230df759b69c7"
+  },
+  "text": "The estimated sales growth for the next quarter is {}.",
+  "entities": [
+    {
+      "value": "6% - 7%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69c8"
+  },
+  "text": "The expected ROI is anticipated to be around {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69c9"
+  },
+  "text": "Projections show an annual growth rate of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69ca"
+  },
+  "text": "Our forecast indicates a profit margin increase of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69cb"
+  },
+  "text": "The estimated financial yield is projected at {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69cc"
+  },
+  "text": "We aim to achieve a dividend yield of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69cd"
+  },
+  "text": "The targeted net return is expected to be {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69ce"
+  },
+  "text": "Risk-adjusted returns have been calculated to be {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69cf"
+  },
+  "text": "The valuation estimation falls within the range of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d0"
+  },
+  "text": "Our revenue projections suggest a growth between {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d1"
+  },
+  "text": "Current market analysis predicts an ROI range of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d2"
+  },
+  "text": "The EBITDA margin is forecasted to be approximately {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d3"
+  },
+  "text": "The anticipated IRR falls within the scope of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d4"
+  },
+  "text": "Expected savings from efficiency improvements are {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d5"
+  },
+  "text": "Our cost of capital is projected to be at {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d6"
+  },
+  "text": "The projected increase in equity value is {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d7"
+  },
+  "text": "Analysts estimate the investment returns to be {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d8"
+  },
+  "text": "The credit rating indicates a yield target of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69d9"
+  },
+  "text": "Expected customer acquisition costs will fall around {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69da"
+  },
+  "text": "Our budget allocation anticipates returns of {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "681a4bc6236230df759b69db"
+  },
+  "text": "The company's projected EBIT growth is believed to be {}.",
+  "entities": [
+    {
+      "value": "4% - 5%",
+      "label": "RETURN"
+    }
+  ]
+}]

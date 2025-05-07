@@ -64,3 +64,27 @@ class MongoHandler:
         Retrieves the last model version from the MongoDB collection.
         """
         return self.models_collection.find_one(sort=[("modelVersion", -1)])
+
+    def get_training_data_by_labels(self, labels):
+        """
+        Retrieves training data entries that contain at least one of the specified labels.
+
+        Args:
+            labels (list): A list of labels to filter the training data by.
+
+        Returns:
+            list: A list of training data entries containing at least one of the specified labels.
+        """
+        return list(self.training_data_collection.find(
+            {"entities.label": {"$in": labels}},  # Query to match entries with any of the specified labels
+            {"_id": 0}  # Exclude the MongoDB `_id` field from the results
+        ))
+
+    def get_all_labels(self):
+        """
+        Retrieves a list of all unique labels in the training data.
+
+        Returns:
+            list: A list of unique labels.
+        """
+        return self.training_data_collection.distinct("entities.label")
